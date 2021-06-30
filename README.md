@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   3. Offensive Security Experienced Penetration Tester (OSEP)
   4. Offensive Security Web Expert (OSWE)
   5. Offensive Security Exploit Developer (OSED)
+  6. Qualified Security Assessor (QSA)
 <br>
 
 * :video_game: **Favourite Past Time**
