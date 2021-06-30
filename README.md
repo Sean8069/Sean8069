@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   1. Payment Card Industry Data Security Standard (PCI DSS)
   2. elearnSecurity Junior Penetration Tester (eJPT)
   3. Certified Ethical Hacker (CEHv11)
+  4. CompTIA Security+ (SY0-601)
 <br>
 
 * :page_facing_up: **Certifications**:
