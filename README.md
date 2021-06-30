@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-* :grey_question: **whoami$**: My name is Sean, third year in university, expected to graduate in March 2021.
+* :grey_question: **whoami$**: My name is Sean, third year in university, expected to graduate in March 2022.
 <br>
 
 * :heart_eyes: **Interests**:
