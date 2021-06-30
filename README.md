@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<br>
 
 * :grey_question: **whoami$**: My name is Sean, third year in university, expected to graduate in March 2021.
 <br>
@@ -45,5 +47,12 @@ Here are some ideas to get you started:
   4. Offensive Security Web Expert (OSWE)
   5. Offensive Security Exploit Developer (OSED)
 <br>
+
+* :video_game: **Favourite Past Time**
+  1. Playing video games
+  2. Reading books:
+      - Genre: Dystopian, Crime Mystery, Psychological
+      - Favourite Books: Crimes and Punishment, Hamlet, Fahrenheit 451, Sherlock Holmes, And Then There Were None
+      - Favourite Authors: Fyodor Dostoevsky, William Shakespeare, Edgar Allan Poe
 
                           
