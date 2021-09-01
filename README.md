@@ -23,32 +23,22 @@ Here are some ideas to get you started:
 
 * :heart_eyes: **Interests**:
   1. Penetration Testing
-  2. Governance, Risk and Compliance (GRC)
-  3. Reverse Engineering
-  4. Malmare Analysis
-  5. Digital Forensic
+  2. Reverse Engineering
+  3. Malmare Analysis
 <br>
 
 * 🌱 **I’m currently learning**:
-  1. Payment Card Industry Data Security Standard (PCI DSS)
-  2. elearnSecurity Junior Penetration Tester (eJPT)
-  3. Certified Ethical Hacker (CEHv11)
-  4. CompTIA Security+ (SY0-601)
+  1. Offensive Security Certified Professional (OSCP)
+  2. Certified Ethical Hacker (CEHv11)
+  
 <br>
 
 * :page_facing_up: **Certifications**:
   1. Cisco Certified Network Associate (CCNA 200-301)
-  2. Microsoft Azure Fundamentals (AZ-900)
+  2. eLearnSecurity Junior Penetration Tester (eJPT)
+  3. Microsoft Azure Fundamentals (AZ-900)
 <br>
 
-* :triumph: **Certifications to achieve in future**:
-  1. Offensive Security Certified Professional (OSCP)
-  2. Certified Information Systems Security Professional (CISSP)
-  3. Offensive Security Experienced Penetration Tester (OSEP)
-  4. Offensive Security Web Expert (OSWE)
-  5. Offensive Security Exploit Developer (OSED)
-  6. Qualified Security Assessor (QSA)
-<br>
 
 * :video_game: **Favourite Past Time**
   1. Playing video games
